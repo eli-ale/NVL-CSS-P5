@@ -1,0 +1,13 @@
+img {
+	background: -color:#FFCC66;
+	border: 100px solid yellow;
+	/*padding:32px 32px 32px; */
+
+}
+div{
+	background: -color:orange;
+	width: 980px;
+	/* heigth:404px;*/
+	padding: 16px 16px 16px;
+	border: 10px solid red;
+}
